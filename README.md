@@ -1,3 +1,5 @@
+[Replaced by galaxyproject/ansible-tiaas2](https://github.com/galaxyproject/ansible-tiaas2)
+
 # TIaaS Group Join Service
 
 Install and configure [this mess](https://github.com/usegalaxy-eu/tiaas-group-join).
